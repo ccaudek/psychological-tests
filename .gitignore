@@ -1,3 +1,22 @@
+Digraph.gv
+
+.DS_Store
+
+# The _build directory
+_build/*
+
+# The images directory
+# images/*
+
+.vscode/*
+
+scratch/*
+!scratch/.gitkeep
+scratch/rivers/*
+!scratch/rivers/.gitkeep
+
+cache/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
